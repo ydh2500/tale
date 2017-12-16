@@ -15,9 +15,6 @@ sass:
 # Build settings
 markdown:       kramdown
 
-# disqus 댓글 창 만들기 위해 추가
-disqus-shortname: ydh2500
-
 # About
 author:
   name:         Chester How
