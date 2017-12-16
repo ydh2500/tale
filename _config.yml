@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          둥둥이 Blog
 paginate:       5
 baseurl:        
-url:            "https://chesterhow.github.io"
+url:            "http://ydh2500.github.io"
 
 # Assets
 sass:
