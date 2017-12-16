@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          둥둥이 블로그
+title:          둥둥이 Blog
 paginate:       5
 baseurl:        
 url:            "https://chesterhow.github.io"
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         ydh2500
+  url:          http://ydh2500.github.io
+  email:        ydh2500@gmail.com
 
 # Custom vars
 version:        3.4.1
