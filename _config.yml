@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          둥둥이 블로그
 paginate:       5
 baseurl:        
 url:            "https://chesterhow.github.io"
