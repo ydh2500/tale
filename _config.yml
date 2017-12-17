@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          둥둥이 Blog
+title:          윤두현의 블로그
 paginate:       5
 baseurl:        
 url:            "http://ydh2500.github.io"
