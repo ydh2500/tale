@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+User-agent: BadBot
+Disallow: /
+
+Sitemap: http://ydh2500.github.io/sitemap.xml
+
