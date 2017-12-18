@@ -17,18 +17,18 @@ cd Optics_github<br/>
 <br/>
 여기서, 이미 github에 생성되어 있는 Repository를 끌어 들여오자.<br/>
 $ git clone "https:// 주소"   를 치면 복제를 한다.<br/>
-<img src="pictures/1.jpg"><br/>
+<img src="1.jpg"><br/>
 <br/>
 복제 후, 원하는 파일을 본 폴더안에 집어넣는다. <br/>
-<img src="pictures/2.jpg"><br/>
+<img src="2.jpg"><br/>
 <br/>
 $git status를 입력하여 본다.<br/>
-<img src="pictures/3.jpg"><br/>
+<img src="3.jpg"><br/>
 이런 식으로 붉은 글자로 표시된 것이 변경된 사항이다. <br/>
 <br/>
 $git add *<br/>
 $git commit -m "수정 및 업데이트 참고사항을 입력"<br/>
 $git push<br/>
 이렇게 세 명령어를 연달아 넣어주면 업데이트가 완료가 된다. <br/>
-<img src="pictures/4.jpg"><br/>
+<img src="4.jpg"><br/>
 
