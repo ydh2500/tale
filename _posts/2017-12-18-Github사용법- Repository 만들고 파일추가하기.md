@@ -17,7 +17,9 @@ cd Optics_github<br/>
 <br/>
 여기서, 이미 github에 생성되어 있는 Repository를 끌어 들여오자.<br/>
 $ git clone "https:// 주소"   를 치면 복제를 한다.<br/>
+![git clone pic](./img/1.jpg)
 <img src="1.jpg"><br/>
+
 <br/>
 복제 후, 원하는 파일을 본 폴더안에 집어넣는다. <br/>
 <img src="2.jpg"><br/>
